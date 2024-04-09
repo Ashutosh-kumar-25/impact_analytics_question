@@ -34,7 +34,7 @@ def attendance_probability(previous, current, missed_count, days_count, target_a
     return
 
 # Input number of days
-N=int(input())
+N=int(input("Enter the number of days:"))
 # Calculate attendance probability
 attendance_probability("", "", 0, 0, N, False)
 # Print missed last day count and total attendances

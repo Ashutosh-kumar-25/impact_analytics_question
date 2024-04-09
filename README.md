@@ -21,3 +21,12 @@ Test cases:
 
 for 5 days: 14/29
 for 10 days: 372/773
+
+
+To run the assignment execute following command:
+
+python attendance.py
+
+then enter the number of days asked
+
+Finally you will get the desired output

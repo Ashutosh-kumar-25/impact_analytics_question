@@ -38,4 +38,5 @@ N=int(input("Enter the number of days: "))
 # Calculate attendance probability
 attendance_probability("", "", 0, 0, N, False)
 # Print missed last day count and total attendances
+print("the number of ways to attend the class: "+ str(total_attendances))
 print(str(missed_last_day_count)+'/'+str(total_attendances))

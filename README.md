@@ -23,7 +23,7 @@ for 5 days: 14/29
 for 10 days: 372/773
 
 
-To run the assignment execute following command:
+#####To run the assignment execute following command:
 
 python attendance.py
 
